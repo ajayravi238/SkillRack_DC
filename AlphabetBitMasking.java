@@ -19,7 +19,6 @@ public class AlphabetBitMasking
 		for(int i=25;i>=0;i--){
 		    res+=arr[i];
 		}
-		System.out.println(Integer.parseInt(res,2));
-		
+		System.out.println(Integer.parseInt(res,2));	
 	}
 }
